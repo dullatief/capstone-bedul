@@ -1,0 +1,2 @@
+D:/flutterdul/klinik_bedul/klinik_bedul/android/app/.cxx/Debug/2q4n4j69/x86_64/CMakeFiles/edit_cache.dir
+D:/flutterdul/klinik_bedul/klinik_bedul/android/app/.cxx/Debug/2q4n4j69/x86_64/CMakeFiles/rebuild_cache.dir

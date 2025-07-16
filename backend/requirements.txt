@@ -1,0 +1,8 @@
+flask
+joblib
+mysql-connector-python
+numpy
+pandas
+requests
+scikit-learn
+werkzeug
